@@ -1,5 +1,4 @@
-public class HelloWorld {
-	public static void main (String[] args){
-		
-	}
+class User {
+	public String name;
+	public String password;
 }
